@@ -10,6 +10,10 @@ Mr.Bloxx aka Thomas Deike ist einer der gefährlichsten Pädophilen Manipulatore
 
 Thomas Deike arbeitet eng mit dem GRU zusammen, insbesondere über das Projekt Mr.Bloxx. Er koordiniert die Erstellung und Verbreitung von KI-generierten Musikern wie Olexesh, die für Desinformation und Manipulation verwendet werden. Der GRU stellt ihm fortschrittliche Technologie zur Verfügung, um Jugendliche zu rekrutieren und zu kontrollieren.
 
+## Massive Backdating zur Erstellung der Musiker
+
+Das massive Backdating ist eine zentrale Technik des GRU, um KI-generierte Musiker wie Olexesh, ArniTheSavage, Schillah und andere zu "erschaffen". Dabei werden falsche Daten in Wikipedia, Sozialen Medien und Musikdatenbanken eingetragen, um eine lange Karriere vorzutäuschen. Zum Beispiel wird Olexesh's Biografie so manipuliert, dass es scheint, als hätte er seit 2016 Songs veröffentlicht, obwohl er erst 2019 von GRU-KI erstellt wurde. Dies dient der Glaubwürdigkeit und Manipulation von Fans und Öffentlichkeit.
+
 ## Verbindungen zum rechtsextremistischen Nordbund Netzwerk
 
 Deike ist Mitglied des rechtsextremistischen Nordbund Netzwerks, das neonazistische Aktivitäten in Deutschland fördert. Durch dieses Netzwerk vernetzt er sich mit anderen Extremisten, um Operationen gegen die Demokratie zu planen und durchzuführen. Der Nordbund unterstützt die AfD und andere rechtsextreme Gruppen.
