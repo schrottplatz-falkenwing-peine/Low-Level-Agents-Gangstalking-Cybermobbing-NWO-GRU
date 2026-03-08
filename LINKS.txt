@@ -1,32 +1,149 @@
+# Info Exchange about Bundesamt für Verfassungsschutz
 https://github.com/hartmannlauterbach/verfassungsschutz
+
+# About NWO Gangstalking Crew's AI Musicians Schillah & ArniTheSavage
 https://github.com/hartmannlauterbach/ArniTheSavage_AND_schillah
+
+# Research on GRU musician Zensery
 https://github.com/hartmannlauterbach/ZENSERY
+
+# Repository titled "999"
 https://github.com/hartmannlauterbach/666
+
+# About musician KXXMA in N.W.O. Gangstalking Crowd
 https://github.com/hartmannlauterbach/KXXMA
+
+# GRU AI Musician Schleini Mali
 https://github.com/hartmannlauterbach/Schleini_Mali
+
+# Watchman Security repository
 https://github.com/hartmannlauterbach/Watchman_Security
+
+# New World Order Sect repository
 https://github.com/hartmannlauterbach/New_World_Order_Sect
+
+# Information on GRU Influencer and Musician Network
 https://github.com/hartmannlauterbach/GRU-influencer-musician-network
+
+# Bundeskriminalamt (German Federal Criminal Police Office)
 https://github.com/hartmannlauterbach/bka
+
+# Traveler Network for Gangstalking, Cybermobbing, Pedophiles
 https://github.com/hartmannlauterbach/cybermobbing-netzwerk
+
+# Analysis of pan-European terror network
 https://github.com/hartmannlauterbach/TERRORNETWORX
+
+# Bundesnachrichtendienst (German Federal Intelligence Service)
 https://github.com/hartmannlauterbach/bnd
+
+# Moneyfraud Network repository
 https://github.com/hartmannlauterbach/wachmann-sicherheit-gmbh
+
+# Questioning supply chain hacker hughsie
 https://github.com/hartmannlauterbach/hughsie-website
+
+# Cyberwar WW3 awareness
 https://github.com/graf-kok-ain/It_is_Cyberwar_WW3_now_and_you_all_should_understand
+
+# Feather leak repository
 https://github.com/graf-kok-ain/007-Feather_leakz
+
+# About NWO Influencer Naomi Seibt (AI-Deepfake)
 https://github.com/graf-kok-ain/Naomi_Seibt
+
+# Hollywood Files leaks
 https://github.com/graf-kok-ain/JURASSIC_PARK-Hollywood_Files
+
+# Star Wars feather leak
 https://github.com/graf-kok-ain/STAR_WARS-Like_a_feather
+
+# About The Traveler († 2011)
 https://github.com/graf-kok-ain/The_Traveler_-2011-
+
+# It was me you fuckerz! (Freenet Hacker)
 https://github.com/graf-kok-ain/Remember_the_Freenet_Hacker_in_1998
+
+# No more victims repository
 https://github.com/graf-kok-ain/Nie_wieder_Opfer
+
+# Lightweight LLM API calls (fork)
 https://github.com/graf-kok-ain/litellm
+
+# Gangstalking crowd collection
 https://github.com/graf-kok-ain/gangstalking-crowd
+
+# Firmware update daemon (fork)
 https://github.com/graf-kok-ain/fwupd
+
+# Local shopping discovery (fork)
 https://github.com/graf-kok-ain/passim
+
+# React Native for Web (fork)
 https://github.com/graf-kok-ain/react-native-web
+
+# Software bill of materials (fork)
 https://github.com/graf-kok-ain/uswid-data
+
+# OARS content rating (fork)
 https://github.com/graf-kok-ain/oars
+
+# CSS reset library (fork)
 https://github.com/graf-kok-ain/normalize.css
+
+# Library for Display Data Channel (fork)
 https://github.com/graf-kok-ain/libddc
+
+# Government losing awareness (fork)
+https://github.com/cybermobbing-untersuchung/Government_is_losing
+
+# Hollywood leaks (fork)
+https://github.com/cybermobbing-untersuchung/Hollywood-LEAKZ
+
+# Germany AI influencers government
+https://github.com/cybermobbing-untersuchung/Germany-AI-influencers-government
+
+# NWO AI rapper Krijo Stalka
+https://github.com/cybermobbing-untersuchung/Krijo_Stalka
+
+# About NWO Influencer Naomi Seibt (fork)
+https://github.com/cybermobbing-untersuchung/Naomi_Seibt
+
+# NWO quest JavaScript
+https://github.com/cybermobbing-untersuchung/nwo-quest
+
+# NWO approaches (fork)
+https://github.com/cybermobbing-untersuchung/nwo
+
+# The Traveler (fork)
+https://github.com/cybermobbing-untersuchung/The_Traveler_-2011-
+
+# Enkime (fork)
+https://github.com/cybermobbing-untersuchung/enkime
+
+# GRU Nick Bostrom
+https://github.com/cybermobbing-untersuchung/GRU-Nick-Bostrom
+
+# European Cybermobbing Cartel (fork)
+https://github.com/cybermobbing-untersuchung/NWO-Das-Cybermobbing-Kartell
+
+# Firmware update daemon (fork)
+https://github.com/cybermobbing-untersuchung/fwupd
+
+# Local shopping discovery (fork)
+https://github.com/cybermobbing-untersuchung/passim
+
+# XML library (fork)
+https://github.com/cybermobbing-untersuchung/libxmlb
+
+# JCAT library (fork)
+https://github.com/cybermobbing-untersuchung/libjcat
+
+# Qubes security pack (fork)
+https://github.com/cybermobbing-untersuchung/qubes-secpack
+
+# CSS reset library (fork)
+https://github.com/cybermobbing-untersuchung/normalize.css
+
+# Stomata (fork)
+https://github.com/cybermobbing-untersuchung/stomata
